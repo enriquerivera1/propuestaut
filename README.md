@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
+## Getting Started - Local Development
+
+1- Clonar el repositorio
+2- Ejecutar el comando  `npm install` en la terminal de comando
+3- ejcutar luego el comando `ng server --open` para visualizar el proyecto de manera local
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
